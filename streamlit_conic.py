@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Title of the webpage will be Passion
-st.title('Passion')
+st.title('Conic Sections')
 
 # Create a selectbox for the menu
 shape = st.selectbox('Choose a shape', ['Circle', 'Ellipse', 'Hyperbola', 'Parabola'])
